@@ -1,0 +1,19 @@
+a {
+	font-family: Helvetica;
+	color: blue;
+	font-size: 30px;
+}
+
+h1 {
+	font-family: Helvetica;
+	color: blue;
+	font-size: 50px;
+}
+
+a:hover {
+	opacity: 0.5;
+}
+
+a:visited {
+	color: black;
+}

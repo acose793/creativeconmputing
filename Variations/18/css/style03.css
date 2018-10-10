@@ -1,0 +1,33 @@
+body {
+	background-color: #ffc8ad;
+}
+
+p {
+	text-align: left;
+	font-family: 'Reenie Beanie', cursive;
+	line-height: 40px;
+	font-size: 20px;
+	position: absolute;
+	left: 600px;
+	top: 160px;
+}
+
+h1 {
+	position: absolute;
+	color: white;
+	font-size: 100px;
+	left: 350px;
+	z-index: -1;
+}
+
+h2 {
+	text-align: left;
+	position: absolute;
+	color: white;
+	font-size: 100px;
+	left: 650px;
+	top: 300px;
+	z-index: -1;
+	text-align: left;
+
+}

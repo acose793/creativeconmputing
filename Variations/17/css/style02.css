@@ -1,0 +1,56 @@
+body {
+	background-color: #df3c3c;
+}
+
+p {
+	font-family: 'Crimson Text', serif;
+	text-align: center;
+
+}
+
+#h1 {
+	font-family: 'Hammersmith One', sans-serif;
+	font-size: 100px;
+	text-align: left;
+	color: #f9f1e4;
+
+}
+
+h1 {
+	font-family: 'Hammersmith One', sans-serif;
+	font-size: 100px;
+	text-align: right;
+
+}
+.itried {
+	position: absolute;
+	top: 350px;
+	left: 30px;
+	-moz-transform: rotate(90deg);
+	-webkit-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	transform: rotate(90deg);
+}
+
+.itried2 {
+	position: absolute;
+	top: 350px;
+	left: 900px;
+	-moz-transform: rotate(-90deg);
+	-webkit-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+	-ms-transform: rotate(-90deg);
+	transform: rotate(-90deg);
+
+}
+
+.itried3 {
+	position: absolute;
+	text-align: left;
+	top: 645px;
+	left: 430px;
+	color: #f9f1e4;
+
+	}
+

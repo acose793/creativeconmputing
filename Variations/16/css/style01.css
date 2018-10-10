@@ -1,0 +1,49 @@
+#h1 {
+	font-family: 'Hammersmith One', sans-serif;
+	font-size: 50px;
+	color: #f95341;
+	
+	}
+
+#p1 {
+	line-height: 9px;
+	font-family: 'Crimson Text', serif;
+	font-weight: lighter;
+
+}
+
+body {
+	background-color: #f7f2dd;
+}
+
+.forget {
+	position: absolute;
+	left: 800px;
+	top: 80px;
+
+
+}
+
+.roots{
+	position: absolute;
+	left: 500px;
+	top: 340px;
+
+
+}
+
+.flower{
+	position: absolute;
+	left: 800px;
+	top: 550px;
+
+}
+
+
+
+.love{
+	position: absolute;
+	left: 500px;
+	top: 820px;
+
+}
