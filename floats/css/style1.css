@@ -1,0 +1,60 @@
+.wrapper {
+	width: 800px;
+	margin: 0 auto;
+	min-width: 600px;
+	max-width: 800px;
+	}
+
+.q {
+	width: 100px;
+	height: 100px;
+	: red solid 1px;
+	float: left;
+	margin: 10px;
+}
+
+.ql {
+	width: 100px;
+	height: 8px;
+	background-color: black;
+
+}
+
+.qlw {
+	width: 100px;
+	height: 8px;
+	background-color: white;
+
+}
+
+.wl {
+	width: 12px;
+	height: 100px;
+	background-color: white;
+	position: absolute;
+	left: 500px;
+	z-index: 100;
+
+}
+
+.wll {
+	width: 12px;
+	height: 80px;
+	background-color: white;
+	position: absolute;
+	left: 623px;
+
+	z-index: 100;
+
+}
+
+.qll {
+	width: 100px;
+	height: 8px;
+	background-color: black;
+	position: absolute;
+	left: 577px;
+
+	z-index: 100;
+
+}
