@@ -1,0 +1,78 @@
+.wrapper {
+	width: 800px;
+	margin: 0 auto;
+
+}
+
+.icecream {
+	width: 300px;
+	margin: 0 auto;
+
+}
+
+.cone {
+	  width: 0;
+      height: 0;
+      border-left: 100px solid transparent;
+      border-right: 100px solid transparent;
+      border-top: 250px solid #a87951;
+    }
+
+ .ice {
+      width: 245px;
+      height: 245px;
+      background: #eea097;
+      border-radius: 50%;
+      position: relative;
+      top: 50px;
+      left: -22px;
+
+    }
+
+     .cherry{
+      width: 85px;
+      height: 85px;
+      background: #df2b3c;
+      border-radius: 50%;
+      position: relative;
+      top: 115px;
+      left: 70px;
+      z-index: 10;
+
+    }
+
+    .stem {
+      width: 60px;
+      height: 70px;
+      border-radius: 80%;
+      box-shadow: 7px 7px 0 0 #287945;
+      position: relative;
+      top: 135px;
+      left: 70px;
+
+    
+    }
+
+    .choco {
+
+      width: 200px;
+      height: 330px;
+      border-radius: 80px 80px 10px 10px;
+
+border: 1px solid #000000;
+background-color: #5e3e19;
+position: absolute;
+top: 150px;
+
+}
+
+.wood {
+  width: 50px;
+  height: 200px;
+  border-radius: 10px;
+  background-color: #e7d9c4;
+  position: absolute;
+top: 440px;
+z-index: -10;
+left: 400px;
+  }
