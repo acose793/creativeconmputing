@@ -1,0 +1,29 @@
+.wrapper {
+	width: 650px;
+	max-width: 650px;
+	min-height: 600px;
+	margin: 0 auto;
+	margin-top: 90px;
+}
+
+h2 {
+	font-family: Avenir;
+	color: blue;
+	line-height: 30px;
+	font-size: 25px;
+
+}
+
+p {
+	font-family: Avenir;
+	color: blue;
+	line-height: 35px;
+	font-size: 20px;
+}
+
+h6 {
+	font-family: Avenir;
+	text-transform: uppercase;
+	color: red;
+	font-size: 15px;
+}
