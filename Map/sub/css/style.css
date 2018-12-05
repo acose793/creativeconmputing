@@ -1,0 +1,50 @@
+.wrapper {
+	margin: 0 auto;
+	text-align: center;
+}
+
+body {
+	background-color: black;
+}
+img {
+	position: relative;
+	top: 80px;
+}
+
+.button {
+    border: none;
+    color: white;
+	font-family: brandon-grotesque, sans-serif;
+	font-weight: 900;
+	font-size: 60px;
+    border-radius: 50%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 46px;
+    position: absolute;
+    top: 380px;
+    left: 1250px;
+}
+
+.button2 {
+   
+    border: none;
+    color: white;
+	font-family: brandon-grotesque, sans-serif;
+	font-weight: 900;
+	font-size: 60px;
+    border-radius: 50%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 46px;
+    position: absolute;
+    top: 380px;
+    left: 150px;
+}
+
+audio {
+	display:none;
+}
+

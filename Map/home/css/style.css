@@ -1,0 +1,55 @@
+.wrapper {
+	margin: 0 auto;
+	text-align: center;
+}
+
+
+
+h1 {
+	color: white;
+	font-family: brandon-grotesque, sans-serif;
+	font-weight: 900;
+	font-size: 80px;
+	text-align: left;
+	line-height: 105px;
+	text-transform: uppercase;
+	position: absolute;
+	left: 450px;
+	top: 240px;
+	text-shadow: 1px 1px 1px #000000;
+}
+
+img {
+	opacity: 5%;
+}
+
+.button {
+   
+    border: none;
+    color: black;
+	font-family: brandon-grotesque, sans-serif;
+	font-weight: 900;
+	font-size: 60px;
+    border-radius: 50%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 46px;
+    position: absolute;
+    top: 380px;
+    left: 1200px;
+}
+
+body {
+	background-color: #faf7eb;
+}
+
+p {
+	position: absolute;
+	top: 650px;
+	left: 570px;
+	text-align: center;
+	font-family: brandon-grotesque, sans-serif;
+	font-weight: 600;
+
+}

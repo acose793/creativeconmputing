@@ -1,0 +1,85 @@
+.wrapper {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.static {
+  position:absolute;
+ 
+}
+
+body {
+	background-color: #faf7eb;
+}
+
+.static:hover {
+  opacity:0;
+}
+
+.active {
+  opacity:50;
+}
+
+.active: hover {
+  opacity:100;
+}
+
+h1 {
+	color: black;
+	font-family: brandon-grotesque, sans-serif;
+	font-weight: 900;
+	font-size: 150px;
+	text-align: left;
+	line-height: 145px;
+	text-transform: uppercase;
+	position: absolute;
+	left: 200px;
+}
+
+p {
+	position: absolute;
+	top: 700px;
+	left: 450px;
+	text-align: center;
+	font-family: brandon-grotesque, sans-serif;
+	font-weight: 600;
+
+}
+
+.yellow {
+	color: #f4e80d;
+}
+
+.button {
+   
+    border: none;
+    color: black;
+	font-family: brandon-grotesque, sans-serif;
+	font-weight: 900;
+	font-size: 60px;
+    border-radius: 50%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 46px;
+    position: absolute;
+    top: 380px;
+    left: 1200px;
+}
+
+.button2 {
+   
+    border: none;
+    color: black;
+	font-family: brandon-grotesque, sans-serif;
+	font-weight: 900;
+	font-size: 60px;
+    border-radius: 50%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 46px;
+    position: absolute;
+    top: 380px;
+    left: 150px;
+}
