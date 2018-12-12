@@ -1,0 +1,19 @@
+.containerchess {
+  display: grid;
+  grid: repeat(4, 12vw) / auto-flow;
+}
+
+.row {
+  display: grid;
+  grid: repeat(1, 12vw) / auto-flow;
+}
+
+.row > .squareb {
+  background-color: black;
+}
+
+.row > .squarew {
+  background-color: white;
+}
+
+
